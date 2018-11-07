@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -8,4 +9,5 @@ html {
 
 .img-flex {
   width: 100%;
+  display: block;
 }
