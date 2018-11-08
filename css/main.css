@@ -27,8 +27,11 @@ body {
   position: absolute;
   left: 50%;
   bottom: 2em;
+  margin: 0;
   transform: translateX(-50%);
   max-width: 50em;
+  padding-left: 25px;
+  padding-right: 25px;
   width: 100%;
 }
 
@@ -38,6 +41,7 @@ body {
   color: #fff;
   background-color: rgba(0, 0, 0, .5);
   text-align: left;
+  line-height: 1.47;
 }
 
 .banner-content p {
